@@ -38,7 +38,7 @@ user interfaces.
 
 ## Contact
 
-Open to backend and full-stack opportunities in Chile and remote across LATAM.
+Open to backend and full-stack opportunities.
 
 <!--
 **PaoloHerrera/PaoloHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
