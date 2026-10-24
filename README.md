@@ -23,7 +23,7 @@ user interfaces.
   Deno + Supabase Edge Functions + PostgreSQL, with privacy-first personal data handling.
 
 - **Executives Communication Manager** — A Laravel/Vue MVP I developed individually for a
-  financial-sector client: communication scheduling, permissions, activity logs and debt-collection
+  financial-sector tender proposal: communication scheduling, permissions, activity logs and debt-collection
   law compliance.
 
 - **BrochuresAI** — A React/FastAPI application that generates brochures from website content
@@ -39,6 +39,7 @@ user interfaces.
 ## Contact
 
 Open to backend and full-stack opportunities.
+Email: paolo.herrera.araya@gmail.com
 
 <!--
 **PaoloHerrera/PaoloHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
